@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+.rect {
+  display: flex;
+  margin: 5px;
+  padding: 15px;
+}
+
+#rect1 {
+  background-color: red;
+}
+
+#rect2 {
+  background-color: green;
+}
+
+#rect3 {
+  background-color: blue;
+}
+
+#rect4 {
+  background-color: yellow;
+}
